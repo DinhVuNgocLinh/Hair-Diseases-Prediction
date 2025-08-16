@@ -15,17 +15,17 @@
 
 ## Table of Contents
 
-1. [Introduction](#1-introduction)
-2. [Dataset](#2-dataset)
-3. [Methodology]
+1. [Introduction](#1-introduction)  
+2. [Dataset](#2-dataset)  
+3. [Methodology](#3-methodology)  
+   - [3.1 Libraries and Frameworks](#31-libraries-and-frameworks)  
+   - [3.2 Data Preprocessing](#32-data-preprocessing)  
+   - [3.3 Model Architectures](#33-model-architectures)  
+   - [3.4 Training Strategy](#34-training-strategy)  
+4. [Results and Discussion](#4-results-and-discussion)  
+5. [Conclusion](#5-conclusion)  
+6. [References](#6-references)  
 
-   * 3.1 Libraries and Frameworks
-   * 3.2 Data Preprocessing
-   * 3.3 Model Architectures
-   * 3.4 Training Strategy
-4. Results and Discussion
-5. Conclusion
-6. References
 ---
 
 ## 1. Introduction
